@@ -77,15 +77,16 @@ streamlit run frontend/app_frontend_ui.py
 
 🔮 Future Scope
 
-Integrate Machine Learning models for expense prediction
+🔆 Integrate Machine Learning models for expense prediction
 
-Add User Authentication & JWT-based security
+🔆 Add User Authentication & JWT-based security
 
-Deploy on AWS / Streamlit Cloud / Render
+🔆 Deploy on AWS / Streamlit Cloud / Render
 
- Extend analytics with monthly trend analysis and forecasts
+🔆 Extend analytics with monthly trend analysis and forecasts
 
 
 🙏 Acknowledgment
 
 A big thank you to Codebasics, Dhaval Patel, and Hemanand Vadivel for their mentorship-driven learning framework that mirrors real-world analytics and ML project pipelines.
+
